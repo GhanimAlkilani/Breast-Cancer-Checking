@@ -1,13 +1,24 @@
-# Sample Snack app
+# Breast-Cancer-Checking
 
-Welcome to Expo!
+## Description:
+Application mobile aimed to help people in checking for breast cancer with 80% of information credibilty.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+## Used Technologies: 
+- Machine Learning
+- React Native
+- Expo
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+## Pictures
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+#### Home Screen
+<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Breast-Cancer-Checking/blob/master/Pictures/1.jpeg" /></div>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+#### Result of Inputs
+<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Breast-Cancer-Checking/blob/master/Pictures/2.jpeg" /></div>
+
+<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Breast-Cancer-Checking/blob/master/Pictures/3.jpeg" /></div>
+
+
+#### Drawer
+<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Breast-Cancer-Checking/blob/master/Pictures/4.jpeg" /></div>
