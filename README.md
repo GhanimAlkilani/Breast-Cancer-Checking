@@ -1,7 +1,7 @@
 # Breast-Cancer-Checking
 
 ## Description:
-Application mobile aimed to help people in checking for breast cancer with 80% of information credibilty.
+Developed with React Native for cross-platform compatibility, our mobile application harnesses the power of Azure Machine Learning to provide efficient and accurate breast cancer detection.
 
 ## Used Technologies: 
 - Machine Learning
